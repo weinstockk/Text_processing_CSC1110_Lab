@@ -1,0 +1,17 @@
+hello           hello              2
+this            is                 2
+a               test               2
+hello           this               1
+is              a                  1
+test            of                 1
+of              nlp                1
+nlp             3000               1
+3000            this               1
+is              only               1
+only            a                  1
+test            end                1
+end             of                 1
+of              the                1
+the             project            1
+project         gutenberg          1
+gutenberg       ebook              1
