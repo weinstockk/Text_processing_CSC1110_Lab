@@ -9,7 +9,11 @@ package tests;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import weinstockk.*;
+import weinstockk.BasicWord;
+import weinstockk.Bigram;
+import weinstockk.Driver;
+import weinstockk.VocabularyEntry;
+import weinstockk.Word;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
