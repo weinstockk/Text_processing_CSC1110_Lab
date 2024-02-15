@@ -6,9 +6,6 @@
 * Handling exceptions in an appropriate manner
 * Use the `java.util.ArrayList` collection class to hold class data
 
-## Resources
- * Accept the GitHub Classroom assignment invitation in Canvas and then, in IntelliJ, create a new project from Version Control using the repository URL.
-
 ## Introduction
 
 In this assigment you will have the computer read in a novel stored as a text file, then
